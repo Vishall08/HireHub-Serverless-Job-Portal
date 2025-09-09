@@ -105,9 +105,7 @@ Follow these **simple steps** to set up the project in AWS:
 ### Recruiter Dashboard
 ![Recruiter Dashboard](docs/recruiter-dashboard.png)
 
----
 
-## 👨‍💻 Author
-**Vishal Dhanokar**  
-Serverless Developer | AWS & Cloud Enthusiast  
+
+
 
