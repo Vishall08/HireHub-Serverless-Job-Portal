@@ -1,6 +1,6 @@
-🧠 1. Why Serverless?
+# 🧠 1. Why Serverless?
 
-Explain the motivation behind choosing serverless architecture instead of traditional server-based hosting:
+ ** The motivation behind choosing serverless architecture instead of traditional server-based hosting:
 
 No Server Management: You don’t need to provision, maintain or scale servers — AWS handles it. This lets you focus on business logic instead of infrastructure.
 
