@@ -7,6 +7,7 @@
 - **Pay-Per-Use Pricing:** You only get charged when functions are executed, which reduces costs during idle times (great for projects with variable traffic).
 
 - **Automatic Scaling:** Functions scale automatically with traffic — no need to pre-configure capacity.
+  
 
 ## 2. Why AWS Lambda?
 
